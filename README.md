@@ -90,7 +90,7 @@
                     }
                     response.close() // Close the response body
                 }
-            })
+            }
         }
     }
 
